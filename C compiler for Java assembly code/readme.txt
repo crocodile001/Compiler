@@ -1,6 +1,4 @@
 
-	405410013 資工三 張可雋
-
 	How to compile and execute my lexical analyzer :
 
 		Open the terminal , then type in 'make' command.
